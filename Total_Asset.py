@@ -1,3 +1,4 @@
+
 # Input
 Lucas = 100
 Joey = 59

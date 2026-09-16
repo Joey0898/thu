@@ -29,12 +29,12 @@ INTEC, Santo Domingo, Dominican Republic
 Ironside State School, Brisbane, Australia
 
 # Computer Skills
-Data Science & Business Intelligence (BI)
+- Data Science & Business Intelligence (BI)
 SPSS - QLik - Excel - Google Looker Studio -  Meta Business Suite
 
-Information Systems & 
+- Information Systems & 
 Software Engineering Foundations
 SQL - BPMN 2.0 - Agile (Trello)
 
-Communication & Digital Design
+- Communication & Digital Design
 Adobe Creative Cloud - SEO/SEA - Google Ads - CMS Infrastructure

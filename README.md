@@ -1,17 +1,13 @@
 # Joey Lutz 666
 
 # Job Experience
-- Marketing Manager | 2022-2025
-at ascendo Professional GmbH, Jennbach, Austria
+- Marketing Manager | 2022-2025 at ascendo Professional GmbH, Jennbach, Austria
 
-- Tour Guide | 2023-2025
-at Team4Travel, Innsbruck, Austria | Spain
+- Tour Guide | 2023-2025 at Team4Travel, Innsbruck, Austria | Spain
 
-- Marketing Manager | 2021-2022
-at Happy Fitness, Innsbruck, Austria
+- Marketing Manager | 2021-2022 at Happy Fitness, Innsbruck, Austria
 
-- Marketing Assistant | 2019-2020
-at icarus creative, Innsbruck, Austria
+- Marketing Assistant | 2019-2020 at icarus creative, Innsbruck, Austria
 
 # Education
 - MA | Management, Communication & IT (MCIT) | 2027

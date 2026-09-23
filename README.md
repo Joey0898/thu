@@ -1,4 +1,4 @@
-# Joey Lutz 666
+# Joey Lutz
 
 # Job Experience
 - Marketing Manager | 2022-2025 at ascendo Professional GmbH, Jennbach, Austria
